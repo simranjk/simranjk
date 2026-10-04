@@ -1,7 +1,7 @@
 # Hi there 👋
 
 # 💫 About Me:
-Results-driven Junior Java Developer with 1 year of industry experience at a multinational company, building and supporting production-grade backend systems using Java, Spring Boot, and RESTful microservices. Consistently delivered multiple services under tight deadlines, collaborated in Agile teams, and helped keep systems stable, scalable, and maintainable in production.<br><br>Holds a Master’s in Software Engineering from Concordia University, with a strong foundation in scalable systems and software architecture. Backend-focused but comfortable working across the stack, with practical knowledge of frontend technologies and a growing interest in product-oriented engineering and design—building software that solves real problems, not just passes tests.
+Results-driven Junior Java Developer with industry experience at a multinational company, building and supporting production-grade backend systems using Java, Spring Boot, and RESTful microservices. Consistently delivered multiple services under tight deadlines, collaborated in Agile teams, and helped keep systems stable, scalable, and maintainable in production.<br><br>Holds a Master’s in Software Engineering from Concordia University, with a strong foundation in scalable systems and software architecture. Backend-focused but comfortable working across the stack, with practical knowledge of frontend technologies and a growing interest in product-oriented engineering and design—building software that solves real problems, not just passes tests.
 
 
 ## 🌐 Socials:
